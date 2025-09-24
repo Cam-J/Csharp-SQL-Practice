@@ -1,0 +1,14 @@
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\bin\Debug\net9.0\App.exe
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\bin\Debug\net9.0\App.deps.json
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\bin\Debug\net9.0\App.runtimeconfig.json
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\bin\Debug\net9.0\App.dll
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\bin\Debug\net9.0\App.pdb
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\App.AssemblyInfoInputs.cache
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\App.AssemblyInfo.cs
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\App.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\App.dll
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\refint\App.dll
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\App.pdb
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\App.genruntimeconfig.cache
+C:\Users\camer\Documents\Programming\Nugensis Practice\C#\App\obj\Debug\net9.0\ref\App.dll

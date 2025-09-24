@@ -1,0 +1,1 @@
+Server=CAMMYPC\SQLEXPRESS;Database=PracticeDB;Trusted_Connection=True;Encrypt=False;
